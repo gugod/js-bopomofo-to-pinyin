@@ -1,0 +1,14 @@
+{
+  "name": "bopomofo-to-pinyin",
+  "version": "1.0.0",
+  "description": "Bopomofo-to-Pinyin converter",
+  "main": "bopomofo-to-pinyin.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "devDependencies": {
+    "tape": "~2.14.0"
+  },
+  "author": "Kang-min Liu <gugod@gugod.org>",
+  "license": "CC0"
+}
